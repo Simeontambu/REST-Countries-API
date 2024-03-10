@@ -21,6 +21,7 @@ Users should be able to:
 First, run the development server:
 
 ```bash
+-git clone https://github.com/Simeontambu/REST-Countries-API.git
 -npm install
 -npm run dev
 
